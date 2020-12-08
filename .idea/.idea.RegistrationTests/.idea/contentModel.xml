@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\a.kadyrova\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\a.kadyrova\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_RegistrationTests.1610968033.00" t="ExcludeRecursive" />
+    <e p="C:\Users\a.kadyrova\Documents\RegistrationTests" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Models" t="Include">
+        <e p="RegistrationFormData.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Pages" t="Include">
+        <e p="basePage.cs" t="Include" />
+        <e p="RegistrationPage.cs" t="Include" />
+        <e p="StartPage.cs" t="Include" />
+      </e>
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="RegistrationTests.csproj" t="IncludeRecursive" />
+      <e p="RegistrationTests.sln" t="IncludeFlat" />
+      <e p="Tests.cs" t="Include" />
+    </e>
+  </component>
+</project>
